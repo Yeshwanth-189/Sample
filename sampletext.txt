@@ -1,1 +1,1 @@
-welcome to git. Have a nice journey! New Branch created
+welcome to git. Have a nice journey! New Branch created!Merging the branches
